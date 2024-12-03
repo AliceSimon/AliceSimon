@@ -4,7 +4,11 @@ Hi 👋 My name is Alice Simon
 Engineer DevOps
 ---------------
 
-I’ve been working in IT for the past 10 years, starting with tasks like upgrading screens from 19" to 22". Over the last two years, I’ve delved deeper into DevOps, learning tools and practices such as Docker, Kubernetes, CI/CD pipelines, infrastructure as code (IaC) with Terraform, cloud services (AWS, Azure, GCP), monitoring tools like Prometheus and Grafana, and container orchestration. DevOps has opened up countless opportunities to continuously learn and improve, and I genuinely enjoy exploring new technologies in this field.
+I’ve been working in IT for the past 10 years, starting with tasks like upgrading screens from 19" to 22". 
+
+Over the last two years, I’ve delved deeper into DevOps, learning tools and practices such as Docker, Kubernetes, CI/CD pipelines, infrastructure as code (IaC) with Terraform, cloud services (AWS, Azure, GCP), monitoring tools like Prometheus and Grafana, and container orchestration. 
+
+DevOps has opened up countless opportunities to continuously learn and improve, and I genuinely enjoy exploring new technologies in this field.
 
 * 🌍  I'm based in Rennes
 
